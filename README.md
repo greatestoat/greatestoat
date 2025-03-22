@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulnanda9899@gmail.com**
 
-- 📄 Know about my experiences [SDE Intern](SDE Intern)
+- 📄 Know about my experiences SDE Intern,SWE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
