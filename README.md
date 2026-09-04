@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">Hungry , in life trying to do some new things!! one day you will see my name </h3>
 <img align="right" alt= "coding" width="400" src= "https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatestoat&label=Profile%20views&color=0e75b6&style=flat" alt="greatestoat" /> </p>
