@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatestoat&label=Profile%20views&color=0e75b6&style=flat" alt="greatestoat" /> </p>
 
-- 💬 Ask me about **React.js,Next.js,Node.js,SQL,mongoDB**
+- 💬 Ask me about **React.js,Next.js,Node.js,SQL,mongoDB,Postgre,Express,python,Java,AWS,AZURE,Docker,Kuberneetes,Git,Github,Manymore continuess**
 
 - 📫 How to reach me **rahulnanda9899@gmail.com**
 
