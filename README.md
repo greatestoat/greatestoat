@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatestoat&label=Profile%20views&color=0e75b6&style=flat" alt="greatestoat" /> </p>
 
-- 💬 Ask me about **React.js,Next.js,Node.js,SQL,mongoDB,Postgre,Express,python,Java,AWS,AZURE,Docker,Kuberneetes,Git,Github,Manymore continuess**
+- 💬 Ask me about **React.js,Next.js,Node.js,SQL,mongoDB,Postgre,Express,python,Java Spring Boot,AWS,AZURE,Docker,Kuberneetes,Git,Github,Manymore continues**
 
 - 📫 How to reach me **rahulnanda9899@gmail.com**
 
-- 📄 Know about my experiences SDE Intern,SWE
+- 📄 Know about my experiences SDE Intern,SDE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
